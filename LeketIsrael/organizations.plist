@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FOR RENT</key>
+	<dict>
+		<key>Address</key>
+		<string>שמאי 16</string>
+		<key>City</key>
+		<string>jerusalem</string>
+		<key>Description</key>
+		<string>4 חדרים...</string>
+		<key>Name</key>
+		<string>name</string>
+		<key>Coordonates</key>
+		<string>31.781208, 35.219622</string>
+	</dict>
+	<key>FOR SALE</key>
+	<dict>
+		<key>Address</key>
+		<string>Yonatan Ben Uzi&apos;el St 2</string>
+		<key>City</key>
+		<string>Jerusalem</string>
+		<key>Description</key>
+		<string>4 pieces</string>
+		<key>Name</key>
+		<string>name</string>
+		<key>Coordonates</key>
+		<string>31.790010, 35.192367</string>
+	</dict>
+	<key>FOR SALE 1</key>
+	<dict>
+		<key>Address</key>
+		<string>Hazon Tsiyon St 7</string>
+		<key>City</key>
+		<string>Jerusalem</string>
+		<key>Description</key>
+		<string>5 pieces</string>
+		<key>Name</key>
+		<string>name</string>
+		<key>Coordonates</key>
+		<string>31.782178, 35.194135</string>
+	</dict>
+</dict>
+</plist>
